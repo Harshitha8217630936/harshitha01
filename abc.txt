@@ -1,0 +1,32 @@
+                                                                                demo.txt                                                                                Modified#!/bin/bash
+
+read -p "Enter the number of terms: " n
+
+
+if ! [[ "$n" =~ ^[0-9]+$ ]]; then
+    echo "Invalid input. Please enter a positive ia=0
+b=1
+
+echo "Fibonacci sequenc
+
+
+
+ GNU nano 7.2                                                                                demo.txt                                                                                                                                                   demo.txt                                                                                Modified
+#!/bin/bash
+
+read -p "Enter the number of terms: " n
+
+
+if ! [[ "$n" =~ ^[0-9]+$ ]]; then
+    echo "Invalid input. Please enter a positive integer."
+    exit 1
+fi
+a=0
+b=1
+
+echo "Fibonacci sequenc
+
+
+
+
+
